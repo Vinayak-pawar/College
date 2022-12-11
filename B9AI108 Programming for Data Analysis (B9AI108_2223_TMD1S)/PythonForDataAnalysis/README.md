@@ -35,4 +35,4 @@ Bangalore City
 
 3: For Bangalore City, It's not strange that Biryani Restaurant or shops are more famous than other cuisines. Bangalore City is famously known for it's Biryani Cuisine. Continental Cuisine is also famous in the city.  
 
-# Note: The data is not collected for Nashik city because of the government rule, all shops and businesses must be closed after 10:00 PM. the results will shown perfectly when the restaurants will get opened.  
+Note: The data is not collected for Nashik city because of the government rule, all shops and businesses must be closed after 10:00 PM. the results will shown perfectly when the restaurants will get opened.  
