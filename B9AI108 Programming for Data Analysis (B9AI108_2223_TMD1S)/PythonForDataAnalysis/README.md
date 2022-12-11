@@ -29,10 +29,10 @@ Bangalore City
 # Findings:
 
 
-1: For Mumbai City, There are more Ice-Cream And Dessert Parlours/shops/Restaurant than Fast Food Restaurant/Shops. Second Place i accounted for Chinese and North Indian Cuisines.
+1: For Mumbai City, There are more Ice-Cream And Dessert Parlours/shops/Restaurant than Fast Food Restaurant/Shops. Second Place is accounted for Chinese and North Indian Cuisines.
 
 2:For Pune City, There are more American and Beverages Parlours/shops/Restaurant than Misal Shops, Which is strange because, Pune City is Famous for dish called "Misal Pav".
 
-3: For Bangalore City, It's not strange that Biryani Restaurant or shops are more famous than other cuisines. Bangalore City is famously known for it's Biryani Cuisine. Continental Cuisine is also famous in the city.  
+3: For Bangalore City, It's not strange that Biryani Restaurant or shops are more famous than other cuisines. Bangalore City is famously known for it's Biryani Cuisine. Continental Cuisine comes second place in the city.  
 
 Note: The data is not collected for Nashik city because of the government rule, all shops and businesses must be closed after 10:00 PM. the results will shown perfectly when the restaurants will get opened.  
